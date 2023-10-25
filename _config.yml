@@ -6,5 +6,4 @@ author:
 description: "This is a page where I indtroduce myself"
 
 # Build settings
-# remote_theme: jekyll/minima
-theme: minima
+ remote_theme: jekyll/cayman
