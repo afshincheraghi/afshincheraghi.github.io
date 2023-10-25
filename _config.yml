@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: PhD Candidate in Finance at Schulich School of Business (York University)
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Afshin Cheraghi
+  email: cheraghi@schulich.yorku.ca
+description: "This is a page where I indtroduce myself"
 
 # Build settings
 remote_theme: jekyll/minima
