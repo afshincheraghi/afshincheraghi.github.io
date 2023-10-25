@@ -1,9 +1,9 @@
 # Site settings
-# title: PhD Candidate in Finance at Schulich School of Business (York University)
-# author:
-#  name: Afshin Cheraghi
-#  email: cheraghi@schulich.yorku.ca
-#description: "This is a page where I indtroduce myself"
+ title: PhD Candidate in Finance at Schulich School of Business (York University)
+ author: Afshin Cheraghi
+  name: Afshin Cheraghi
+  email: cheraghi@schulich.yorku.ca
+description: "This is a page where I indtroduce myself"
 
 # Build settings
  theme: cayman
