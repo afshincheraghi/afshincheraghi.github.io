@@ -6,4 +6,4 @@
 #description: "This is a page where I indtroduce myself"
 
 # Build settings
- remote_theme: pages-themes/cayman
+ theme: cayman
