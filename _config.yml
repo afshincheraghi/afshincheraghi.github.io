@@ -3,9 +3,8 @@ title: Afshin Cheraghi
 #author:
  # name: Afshin Cheraghi
  # email: cheraghi@schulich.yorku.ca
-description: "Ph.D. Candidate in Finance\n
-Schulich School of Business\n
-York University"
+description: "Ph.D. Candidate in Finance"
+description: "Schulich School of Business"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
