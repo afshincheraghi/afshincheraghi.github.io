@@ -6,4 +6,4 @@ author:
 description: "This is my website where I introduce my projects"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: pages-themes/cayman
