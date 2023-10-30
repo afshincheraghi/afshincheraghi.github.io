@@ -1,9 +1,9 @@
 # Site settings
- title: PhD Candidate in Finance at Schulich School of Business (York University)
- author: Afshin Cheraghi
+title: Great New Blog Title
+author:
   name: Afshin Cheraghi
   email: cheraghi@schulich.yorku.ca
-description: "This is a page where I indtroduce myself and my projects"
+description: "This is my website where I introduce my projects"
 
 # Build settings
- theme: cayman
+remote_theme: jekyll/minima
