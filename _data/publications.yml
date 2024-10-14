@@ -2,13 +2,6 @@ main:
 
   - title: "Managerial Announcements and Investor Attention: Strategic Release of Good News"
     authors: <strong>Afshin Cheraghi</strong>
-    #conference_short: MICCAI
-    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
-    #notes: Early Accept
 
   - title: "Determinants of Stability of Google Search Volume Index Measure"
     authors: <strong>Afshin Cheraghi</strong>, Mark Kamstra, Xinyao (Joseph) Zhou
