@@ -12,4 +12,9 @@ I am a Ph.D. Candidate in Finance at Schulich School of Business, York Universit
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
+
+## Teaching
+
+- **Personal Finance**
+- Schulich School of Business (Undergraduate), York University, Winter 2024
