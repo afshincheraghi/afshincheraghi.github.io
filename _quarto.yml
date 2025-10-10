@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Afshin Cheraghi"
+  description: "PhD Candidate in Finance at Schulich School of Business, York University. Research in behavioral finance, investor attention, and corporate disclosure."
+  site-url: "https://www.afshincheraghi.com"
   search: false
   navbar:
     logo: logo.jpg
