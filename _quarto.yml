@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Afshin Cheraghi"
+  search: false
+  navbar:
+    logo: logo.jpg
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/afshin-cheraghi-655957168/
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+    background: dark
+    left:
+      - text: "About"
+        href: about.qmd
+      - research.qmd
+      - References.qmd
+      - contact.qmd
+
+format:
+  html:
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 100px
+      gutter-width: 1.5rem
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+    
+
+

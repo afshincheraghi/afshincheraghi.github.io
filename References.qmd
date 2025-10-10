@@ -1,0 +1,13 @@
+---
+title: "References"
+---
+
+| [**Mark Kamstra**<br>(Committee Chair)](https://www.markkamstra.com) | [**Ming Dong**<br>(Committee Member)](https://schulich.yorku.ca/faculty/ming-dong/) | [**Yisong Tian**<br>(Committee Member)](https://schulich.yorku.ca/faculty/yisong-s-tian/) |
+|:--:|:--:|:--:|
+| **Professor**<br>Schulich School of Business,<br> York University<br>[mkamstra@schulich.yorku.ca](mailto:mkamstra@schulich.yorku.ca)<br>+1 (416) 736-2100 ext. 33302 | **Professor**<br>Schulich School of Business,<br> York University<br>[mdong@schulich.yorku.ca](mailto:mdong@schulich.yorku.ca)<br>+1 (416) 736-2100 ext. 77945 | **Professor**<br>Schulich School of Business,<br> York University<br>[ytian@schulich.yorku.ca](mailto:ytian@schulich.yorku.ca)<br>+1 (416) 736-2100 ext. 77943 |
+
+&nbsp;
+
+| [**Xinyao (Joseph) Zhou**<br>(Coauthor)](https://engineering.ontariotechu.ca/people/faculty/zhou-xinyao.php) |
+|:--:|
+| **Assistant Professor**<br>Ontario Tech University<br>[xinyao.zhou@ontariotechu.ca](mailto:xinyao.zhou@ontariotechu.ca)<br>905.721.8668 ext. 5393 |

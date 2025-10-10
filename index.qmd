@@ -1,0 +1,28 @@
+---
+title: "Afshin Cheraghi"
+about:
+    template: solana
+    image: Afshin-Cheraghi.png
+    image-shape: round
+    links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/afshin-cheraghi-655957168/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome! I am Afshin Cheraghi, PhD candidate in Finance at the Schulich School of Business, York University, Canada.\
+My research explores how behavioral factors affect capital markets.\
+I am on the 2025-26 academic job market.
+
+## Education
+
+-  **PhD in Finance, Schulich School of Business, York University, Toronto, Canada (ongoing)**
+
+- **MSc in Economics, Sharif University of Technology, Tehran, Iran**
+
+- **BSc in Electrical Engineering, Sharif University of Technology, Tehran, Iran**
+
+
