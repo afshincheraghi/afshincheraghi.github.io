@@ -11,11 +11,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.ca/
 ---
 
 
 Welcome! I am Afshin Cheraghi, PhD candidate in Finance<br> at the Schulich School of Business, York University, Canada.\
-I am on the 2025-26 academic job market.
+**I am on the 2025-26 academic job market.**
 
 ## Research Interests
 - Behavioral Finance
