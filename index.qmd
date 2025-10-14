@@ -2,7 +2,7 @@
 title: "Afshin Cheraghi"
 about:
     template: solana
-    image: afshin-pic3.jpg
+    image: afshin-pic2.jpg
     image-shape: round
     links:
     - icon: linkedin
